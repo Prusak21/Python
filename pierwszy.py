@@ -1,0 +1,1 @@
+print("czy to wogole dziala xd")
